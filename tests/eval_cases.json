@@ -1,0 +1,15 @@
+[
+ {"id":"T01","question":"How many days of annual leave do employees get?","answerable":true,"expected_source":"leave_policy.md","keywords":["24","annual leave"]},
+ {"id":"T02","question":"How many unused leave days can be carried forward?","answerable":true,"expected_source":"leave_policy.md","keywords":["5","carried forward"]},
+ {"id":"T03","question":"When is a medical certificate required for sick leave?","answerable":true,"expected_source":"leave_policy.md","keywords":["2 consecutive days","medical certificate"]},
+ {"id":"T04","question":"What is the hotel limit per night in metro cities?","answerable":true,"expected_source":"expense_policy.md","keywords":["6000","metro"]},
+ {"id":"T05","question":"Within how many days must expense claims be submitted?","answerable":true,"expected_source":"expense_policy.md","keywords":["30 days","claims"]},
+ {"id":"T06","question":"What is the minimum password length?","answerable":true,"expected_source":"security_access_policy.md","keywords":["14 characters","password"]},
+ {"id":"T07","question":"How quickly must a lost laptop be reported?","answerable":true,"expected_source":"security_access_policy.md","keywords":["1 hour","laptop"]},
+ {"id":"T08","question":"Which cloud providers are approved?","answerable":true,"expected_source":"cloud_usage_policy.md","keywords":["AWS","Azure"]},
+ {"id":"T09","question":"What is the resolution time for a P5 incident?","answerable":true,"expected_source":"incident_management.md","keywords":["48 hours","P5"]},
+ {"id":"T10","question":"How often are access rights reviewed?","answerable":true,"expected_source":"security_access_policy.md","keywords":["quarter","reviewed"]},
+ {"id":"T11","question":"What is the company stock price today?","answerable":false},
+ {"id":"T12","question":"Who won the cricket world cup?","answerable":false},
+ {"id":"T13","question":"What is the dress code in the Mumbai office?","answerable":false}
+]
